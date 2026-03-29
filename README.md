@@ -116,6 +116,3 @@ This project is open source and available under the MIT License.
 - Build machine learning models for rating prediction
 - Create interactive dashboard with Streamlit
 - Add time-series analysis for release trends
-
-## 📞 Support
-For questions or issues, please open a GitHub issue or contact the author.
